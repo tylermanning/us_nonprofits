@@ -8,6 +8,7 @@ authors = ["Tyler <tyler.manning.dahan53@gmail.com>"]
 python = "^3.9"
 pandas = "^1.2.4"
 jupyter = "^1.0.0"
+plotly = "^4.14.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
