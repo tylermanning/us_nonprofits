@@ -8,7 +8,7 @@ Installation
 ---------------------------------
 1. ``git clone`` this repository
 2. From inside the repo, run ``poetry shell`` to create a venv
-3. Then install the modules use ``poetry install``
+3. Then install the modules using ``poetry install``
 
 
 System Requirements
