@@ -6,13 +6,13 @@ This repository is a brief exploration of the IRS tax filing data (`EOBMF <https
 
 Installation
 ---------------------------------
-1. `git clone` this repository
-2. From inside the repo, run `poetry shell` to create a venv
-3. Then install the modules use `poetry install`
+1. ``git clone`` this repository
+2. From inside the repo, run ``poetry shell`` to create a venv
+3. Then install the modules use ``poetry install``
 
 
 System Requirements
 -------------------------------
 
 1. Python 3.X 
-2. Poetry 1.1.6 (or latest) (I've found using `pipx <https://pipxproject.github.io/pipx/installation/>`_ is the smoothest to install poetry because it can be installed by simply running `pipx install poetry`)
+2. Poetry 1.1.6 (or latest) (I've found using `pipx <https://pipxproject.github.io/pipx/installation/>`_ is the smoothest to install poetry because it can be installed by simply running ``pipx install poetry``)

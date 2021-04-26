@@ -14,3 +14,8 @@ def extract(region=None):
 
 def transform(data):
     return transformed_data
+
+
+def load(data):
+    # TO DO: cache data locally or to some data store
+    pass
