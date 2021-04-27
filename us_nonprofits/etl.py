@@ -18,6 +18,7 @@ def extract(region=None):
 
 
 def transform(data):
+    # TO DO: add all data transformations here on dataset
     return transformed_data
 
 
