@@ -21,3 +21,4 @@ System Requirements
 Useful Links
 -------------------------------
 1. `990 Tax Form <https://www.irs.gov/pub/irs-pdf/f990.pdf>`_ 
+2. `EOBMF Documentation <https://www.irs.gov/pub/irs-soi/eo_info.pdf>`_
